@@ -1,0 +1,12 @@
+.scrollup
+{
+  width:40px;
+  height:40px;
+  opacity:0.5;
+  position:fixed;
+  display:none;
+  bottom:50px;
+  right:50px;
+  text-indent:-9999px;
+  background:url(../images/scrolltotop.png) no-repeat;
+}
